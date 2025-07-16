@@ -1,0 +1,9 @@
+[getAcceptedRequestDT]
+[getPendingRequestDT]
+[getRejectedRequestDT]
+[drive_request_form]
+[getDealersByCity]
+[createRequestByDealer]
+ //<input type='radio' name='gender' value='Male' id='gender_m' value='male' placeholder='Male'><label for='gender_m'>Male</label>
+          <input type='radio' name='gender' value='Female' id='gender_f' value='female' placeholder='Female'><label for='gender_f'>Female</label>
+       

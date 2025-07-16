@@ -1,0 +1,24 @@
+.close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    z-index: 99999;
+    position: relative;
+}
+.name_content{
+    text-align:center;
+}
+/*
+    radio css
+*/
+
+
+
+h1 {
+    text-align: center;
+}
+
+/*
+    end radio css
+*/
